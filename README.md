@@ -14,8 +14,11 @@ O Coin Converter é um aplicativo de estudo que permite converter valores entre 
 
 ## Capturas de Tela
 
-![Captura de Tela 1](screenshots/screenshot1.png)
-![Captura de Tela 2](screenshots/screenshot2.png)
+<div align="center">
+<img src="https://github.com/JeanLamego/CoinConverterAndroid/assets/112256751/3595a404-434f-4883-b4b8-fdf513473d15" width=200px/>
+  
+<img src="https://github.com/JeanLamego/CoinConverterAndroid/assets/112256751/5d1ec9e6-3f87-428f-af26-b1c0236f4d38" width=200px/>
+</div>
 
 ## Como Executar
 
